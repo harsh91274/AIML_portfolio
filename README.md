@@ -6,4 +6,4 @@
 
 # Portfolio 
 
-1. Fraud Prediction on Credit Card Transactions - https://github.com/harsh91274/card_transactions_fraud_prediction
+1. [Fraud Prediction on Credit Card Transactions](https://github.com/harsh91274/card_transactions_fraud_prediction)
