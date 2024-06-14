@@ -1,8 +1,8 @@
-### Technical Skills: Python, SQL, AWS, Dataiku, Snowflake, MATLAB
+### Technical Skills: Python, SQL, AWS, Snowflake, Dataiku, MATLAB, MS Power Platform
 
 # Education
-- Ph.D Geophysics, Rice University
-- Bachelor of Technology in Petroleum Engineering, Pandit Deendayal Energy University
+- Ph.D. Geophysics, Rice University
+- B.Tech in Petroleum Engineering, Pandit Deendayal Energy University
 
 # Certifications
 - [AWS Solutions Architect Associate](https://www.credly.com/badges/aac71cc4-37b8-42ef-bfd3-10b45b69a41a/linked_in_profile)
@@ -13,20 +13,30 @@
 
 # Portoflio of personal projects
 
-## NLP and Generative AI
+## GenAI, NLP and Recommendation Systems
 
-1. [Finetuning BERT for Named Entity Recognition](https://github.com/harsh91274/named_entity_recognition_using_bert) - 
-2. [Custom Named Entity Recognition Model](https://github.com/harsh91274/NER_spacy) - Building a custom NER model for characters in Harry Potter using Spacy
-3. [Sentiment Analysis using Transformers](https://github.com/harsh91274/amazon_sentiment_reviews) - Using NLTK and transformers to analyze sentiment of Amazon reviews
-4. 
+1. [Finetuning BERT for Named Entity Recognition](https://github.com/harsh91274/named_entity_recognition_using_bert) -
+5. [Building a RAG-based chatbot using Snowflake and AWS Bedrock]()
+
+## NLP and Recommendation Systems
+
+1. [Custom Named Entity Recognition Model](https://github.com/harsh91274/NER_spacy) - Building a custom NER model for characters in Harry Potter using Spacy
+2. [Sentiment Analysis using Transformers](https://github.com/harsh91274/amazon_sentiment_reviews) - Using NLTK and transformers to analyze sentiment of Amazon reviews
+3. [Resume Screening Application]
+4. [Movie Recommender] 
 
 ## Data Engineering and new technologies
 
-1. 
+1. [Building a data model using DBT and Snowflake] (https://github.com/harsh91274/hv_projects/tree/main/dbtjanpro2) - Building the jaffle shop data model and testing using DBT
+2. [docker] -
+3. [mlflow] - 
 
 ## Classification, Regression and Time Series
 
-1. [Fraud Prediction on Credit Card Transactions](https://github.com/harsh91274/card_transactions_fraud_prediction) - Predicting fraudulent credit card transactions using a data transformation and classification model.
+1. [Fraud Prediction on Credit Card Transactions](https://github.com/harsh91274/card_transactions_fraud_prediction) - Building a regression model to predict fraudulent credit card transactions.
 
-2. 
+2. [Forecasting River Depth](https://github.com/harsh91274/sales_forecasting) - 
 
+3. [Heart Attack Prediction](https://github.com/harsh91274/small_ml_projects/tree/main/heart_attack_prediction) - Building a classification model to predict the probability of heart attack based on health indicators of patients
+
+4. [California housing prices](https://github.com/harsh91274/small_ml_projects/tree/main/california_housing_prices) - Building a regression model to predict the prices of of homes in California
