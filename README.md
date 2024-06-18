@@ -24,21 +24,21 @@ Email: harsh.vora91@gmail.com
 
 ### GenAI 
 
-1. [Finetuning BERT for Named Entity Recognition](https://github.com/harsh91274/named_entity_recognition_using_bert) -
-5. [Building a RAG-based chatbot using Snowflake and AWS Bedrock]()
-6. [Finetuning Gemma] - 
+1. [Finetuning BERT for Named Entity Recognition](https://github.com/harsh91274/named_entity_recognition_using_bert) - Experiments with finetuning BERT using conll2003 dataset FOR Part of Speech Tagging and Named Entity Recognition 
+5. [Building a RAG-based chatbot using Snowflake and AWS Bedrock](https://github.com/harsh91274/rag_snowflake_rag_streamlit) - Building a market intelligence RAG chatbot for PDFs using Snowflake, AWS bedrock and streamlit
+6. [Finetuning Gemma] - Finetuning gemma using QLORA technique using the dolly-15k dataset for Q&A tasks
 
 ### NLP and Recommendation Systems
 
 1. [Custom Named Entity Recognition Model](https://github.com/harsh91274/NER_spacy) - Building a custom NER model for characters in Harry Potter using Spacy
 2. [Sentiment Analysis using Transformers](https://github.com/harsh91274/amazon_sentiment_reviews) - Using NLTK and transformers to analyze sentiment of Amazon reviews
-4. [Resume Screening Application]() - 
-5. [Movie Recommender]() - 
+4. [Resume Screening Application](https://github.com/harsh91274/resume_screening_app/upload) - OnevsRest classifier for resume screening using TF-IDF and streamlit
+5. [Movie Recommender](https://github.com/harsh91274/recommender_system) - Content-based recommender system using Vectorization on movie descriptions, served using streamlit
 
 ### MLOps and Data Engineering
 
 1. [Building a data model using DBT and Snowflake] (https://github.com/harsh91274/hv_projects/tree/main/dbtjanpro2) - Building the jaffle shop data model and testing using DBT
-2. [docker]() -
+2. [docker](https://github.com/harsh91274/docker_data_science) - Experiments with docker images and docker compose. More to come. 
 3. [mlflow]() -
 
 ### Decision Sciences
@@ -51,3 +51,4 @@ Email: harsh.vora91@gmail.com
 2. [Forecasting River Depth](https://github.com/harsh91274/small_ml_projects/tree/main/river_depth_forecasting) - Building a time series forecasting model using river bed features to predict depth
 3. [Heart Attack Prediction](https://github.com/harsh91274/small_ml_projects/tree/main/heart_attack_prediction) - Building a classification model to predict the probability of heart attack based on health indicators of patients
 4. [California housing prices](https://github.com/harsh91274/small_ml_projects/tree/main/california_housing_prices) - Building a regression model to predict the prices of of homes in California
+5. [Predicting medical costs](https://github.com/harsh91274/small_ml_projects/tree/main/medical_costs) - Building a regression model to predict cost to insurance company based on patient attributes
