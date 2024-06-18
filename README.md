@@ -42,7 +42,7 @@ Email: harsh.vora91@gmail.com
 3. [mlflow]() -
 
 ### Decision Sciences
-1. [Operations research problems including fixed charge problem and travelling salesman]() - 
+1. [Operations research/Optimization](https://github.com/harsh91274/linear_programming) - Learning pyomo using classical fixed charge and travelling salesmen problems 
 2. [A/B Testing]() - 
 
 ### Classification, Regression and Time Series
