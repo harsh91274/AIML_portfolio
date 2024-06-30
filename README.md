@@ -12,11 +12,11 @@ Email: harsh.vora91@gmail.com
 - Visualization: Streamlit, Dash, PowerBI
 
 ### Certifications and Courses
-- [MLOps zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) (Ongoing) - [REPOSITORY](https://github.com/harsh91274/mlops_zoomcamp)
-- [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) (Ongoing) - [REPOSITORY](https://github.com/harsh91274/SR_DL)
+- [MLOps zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) (Ongoing) - [repo](https://github.com/harsh91274/mlops_zoomcamp)
+- [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) - [repo](https://github.com/harsh91274/SR_DL)
 - [AWS Solutions Architect Associate](https://www.credly.com/badges/aac71cc4-37b8-42ef-bfd3-10b45b69a41a/linked_in_profile)
-- [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/HYUSH5YKXHKH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - [REPOSITORY](https://github.com/harsh91274/genai)
-- [Statistical Learning](https://courses.edx.org/certificates/477df4f733f043e5ac5e6801f7a380e6) - [REPOSITORY](https://github.com/harsh91274/Statistical_Learning_edx)
+- [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/HYUSH5YKXHKH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) - [repo](https://github.com/harsh91274/genai)
+- [Statistical Learning](https://courses.edx.org/certificates/477df4f733f043e5ac5e6801f7a380e6) - [repo](https://github.com/harsh91274/Statistical_Learning_edx)
 - [Dataiku Core Designer](https://verify.skilljar.com/c/kmz996k4338p)
 - [IBM Python Data Science](https://credentials.edx.org/credentials/41d32e85ebd2452797ad660be1b5653f/)
 
