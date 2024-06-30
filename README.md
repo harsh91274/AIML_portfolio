@@ -1,4 +1,4 @@
-Email: harsh.vora91@gmail.com
+**email: harsh.vora91@gmail.com**
 
 # Education
 - Ph.D. Geophysics, Rice University
