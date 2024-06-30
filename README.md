@@ -4,6 +4,13 @@ Email: harsh.vora91@gmail.com
 - Ph.D. Geophysics, Rice University
 - B.Tech in Petroleum Engineering, Pandit Deendayal Energy University
 
+# Technical Skills
+- Cloud Platforms: AWS, Azure
+- Data Science Platforms: Python, SQL, AWS Sagemaker, h2o, dataiku 
+- Data Engineering: Snowflake, Databricks, SQL Server, dbt
+- MLOps: mlflow, Docker, DVC, git, flask, kubernetes
+- Visualization: Streamlit, Dash, PowerBI
+
 ### Certifications and Courses
 - [MLOps zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) (Ongoing) - [REPOSITORY](https://github.com/harsh91274/mlops_zoomcamp)
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) (Ongoing) - [REPOSITORY](https://github.com/harsh91274/SR_DL)
@@ -12,13 +19,6 @@ Email: harsh.vora91@gmail.com
 - [Statistical Learning](https://courses.edx.org/certificates/477df4f733f043e5ac5e6801f7a380e6) - [REPOSITORY](https://github.com/harsh91274/Statistical_Learning_edx)
 - [Dataiku Core Designer](https://verify.skilljar.com/c/kmz996k4338p)
 - [IBM Python Data Science](https://credentials.edx.org/credentials/41d32e85ebd2452797ad660be1b5653f/)
-
-# Technical Skills
-- Cloud Platforms: AWS, Azure
-- Data Science Platforms: Python, SQL, AWS Sagemaker, h2o, dataiku 
-- Data Engineering: Snowflake, Databricks, SQL Server, dbt
-- Devops: Docker, kubernetes, mlflow
-- Visualization: Streamlit, Dash, PowerBI
 
 # Portoflio of personal projects
 
@@ -38,12 +38,13 @@ Email: harsh.vora91@gmail.com
 ### MLOps and Data Engineering
 
 1. [Building a data model using DBT and Snowflake](https://github.com/harsh91274/hv_projects/tree/main/dbtjanpro2) - Building the jaffle shop data model and testing using DBT
-2. [docker](https://github.com/harsh91274/docker_data_science) - Experiments with docker images and docker compose. More to come. 
-3. [mlflow]() -
+2. [docker](https://github.com/harsh91274/docker_data_science) - Experiments with docker images and docker compose. More to come.
+3. [flask](https://github.com/harsh91274/model_serving_with_flask) - Serving a classification model using a flask application 
+4. [mlflow](https://github.com/harsh91274/mlops_zoomcamp) - Experiment tracking with mlflow
 
 ### Decision Sciences
 1. [Operations research/Optimization](https://github.com/harsh91274/linear_programming) - Learning pyomo using classical fixed charge and travelling salesmen problems 
-2. [A/B Testing]() - 
+2. [A/B Testing](https://github.com/harsh91274/AB_testing) 
 
 ### Classification, Regression and Time Series
 
