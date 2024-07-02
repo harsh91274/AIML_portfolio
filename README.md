@@ -32,7 +32,7 @@
 
 1. [Custom Named Entity Recognition Model](https://github.com/harsh91274/NER_spacy) - Building a custom NER model for characters in Harry Potter using Spacy
 2. [Sentiment Analysis using Transformers](https://github.com/harsh91274/amazon_sentiment_reviews) - Using NLTK and transformers to analyze sentiment of Amazon reviews
-4. [Resume Screening Application](https://github.com/harsh91274/resume_screening_app/upload) - OnevsRest classifier for resume screening using TF-IDF and streamlit
+4. [Resume Screening Application](https://github.com/harsh91274/resume_screening_app) - OnevsRest classifier for resume screening using TF-IDF and streamlit
 5. [Movie Recommender](https://github.com/harsh91274/recommender_system) - Content-based recommender system using Vectorization on movie descriptions, served using streamlit
 
 ### MLOps and Data Engineering
