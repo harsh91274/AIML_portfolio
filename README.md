@@ -44,7 +44,7 @@
 
 ### Decision Sciences
 1. [Operations research/Optimization](https://github.com/harsh91274/linear_programming) - Learning pyomo using classical fixed charge and travelling salesmen problems 
-2. [A/B Testing](https://github.com/harsh91274/AB_testing) 
+2. [A/B Testing](https://github.com/harsh91274/AB_testing) - A/B testing a feature whether a feature added to a video game has implications on the game rounds using the popular cookie cats dataset. 
 
 ### Classification, Regression and Time Series
 
