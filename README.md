@@ -25,15 +25,15 @@
 ### GenAI 
 
 1. [Finetuning BERT for Named Entity Recognition](https://github.com/harsh91274/named_entity_recognition_using_bert) - Experiments with finetuning BERT using conll2003 dataset FOR Part of Speech Tagging and Named Entity Recognition 
-5. [Building a RAG-based chatbot using Snowflake and AWS Bedrock](https://github.com/harsh91274/rag_snowflake_rag_streamlit) - Building a market intelligence RAG chatbot for PDFs using Snowflake, AWS bedrock and streamlit
-6. [Finetuning Gemma](https://github.com/harsh91274/genai/blob/main/gemma_lora_finetuning.ipynb) - Finetuning gemma using QLORA technique using the dolly-15k dataset for Q&A tasks
+2. [Building a RAG-based chatbot using Snowflake and AWS Bedrock](https://github.com/harsh91274/rag_snowflake_rag_streamlit) - Building a market intelligence RAG chatbot for PDFs using Snowflake, AWS bedrock and streamlit
+3. [Finetuning Gemma](https://github.com/harsh91274/genai/blob/main/gemma_lora_finetuning.ipynb) - Finetuning gemma using QLORA technique using the dolly-15k dataset for Q&A tasks
 
 ### NLP and Recommendation Systems
 
 1. [Custom Named Entity Recognition Model](https://github.com/harsh91274/NER_spacy) - Building a custom NER model for characters in Harry Potter using Spacy
 2. [Sentiment Analysis using Transformers](https://github.com/harsh91274/amazon_sentiment_reviews) - Using NLTK and transformers to analyze sentiment of Amazon reviews
-4. [Resume Screening Application](https://github.com/harsh91274/resume_screening_app) - OnevsRest classifier for resume screening using TF-IDF and streamlit
-5. [Movie Recommender](https://github.com/harsh91274/recommender_system) - Content-based recommender system using Vectorization on movie descriptions, served using streamlit
+3. [Resume Screening Application](https://github.com/harsh91274/resume_screening_app) - OnevsRest classifier for resume screening using TF-IDF and streamlit
+4. [Movie Recommender](https://github.com/harsh91274/recommender_system) - Content-based recommender system using Vectorization on movie descriptions, served using streamlit
 
 ### MLOps and Data Engineering
 
@@ -44,12 +44,15 @@
 
 ### Decision Sciences
 1. [Operations research/Optimization](https://github.com/harsh91274/linear_programming) - Learning pyomo using classical fixed charge and travelling salesmen problems 
-2. [A/B Testing](https://github.com/harsh91274/AB_testing) - A/B testing a feature whether a feature added to a video game has implications on the game rounds using the popular cookie cats dataset. 
+2. [A/B Testing](https://github.com/harsh91274/AB_testing) - A/B testing a feature whether a feature added to a video game has implications on the game rounds using the popular cookie cats dataset.
 
-### Classification, Regression and Time Series
+### Time Series Forecasting
+1. [Using autoencoders for forecasting and anomaly detection](https://github.com/harsh91274/autoencoders) - Forecasting stock price and detecting anomalies using Neural Networks built with LSTM units using Keras framework
+2. [Forecasting River Depth](https://github.com/harsh91274/small_ml_projects/tree/main/river_depth_forecasting) - Building a time series forecasting model using river bed features to predict depth
+
+### Classification and Regression
 
 1. [Fraud Prediction on Credit Card Transactions](https://github.com/harsh91274/card_transactions_fraud_prediction) - Building a regression model to predict fraudulent credit card transactions.
-2. [Forecasting River Depth](https://github.com/harsh91274/small_ml_projects/tree/main/river_depth_forecasting) - Building a time series forecasting model using river bed features to predict depth
-3. [Heart Attack Prediction](https://github.com/harsh91274/small_ml_projects/tree/main/heart_attack_prediction) - Building a classification model to predict the probability of heart attack based on health indicators of patients
-4. [California housing prices](https://github.com/harsh91274/small_ml_projects/tree/main/california_housing_prices) - Building a regression model to predict the prices of of homes in California
-5. [Predicting medical costs](https://github.com/harsh91274/small_ml_projects/tree/main/medical_costs) - Building a regression model to predict cost to insurance company based on patient attributes
+2. [Heart Attack Prediction](https://github.com/harsh91274/small_ml_projects/tree/main/heart_attack_prediction) - Building a classification model to predict the probability of heart attack based on health indicators of patients
+3. [California housing prices](https://github.com/harsh91274/small_ml_projects/tree/main/california_housing_prices) - Building a regression model to predict the prices of of homes in California
+4. [Predicting medical costs](https://github.com/harsh91274/small_ml_projects/tree/main/medical_costs) - Building a regression model to predict cost to insurance company based on patient attributes
