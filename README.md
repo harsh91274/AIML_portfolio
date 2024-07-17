@@ -37,11 +37,11 @@
 
 ### MLOps and Data Engineering
 
-1. [Building a data model using DBT and Snowflake](https://github.com/harsh91274/hv_projects/tree/main/dbtjanpro2) - Building the jaffle shop data model and testing using DBT
-2. [docker](https://github.com/harsh91274/docker_data_science) - Experiments with docker images and docker compose. More to come.
-3. [flask](https://github.com/harsh91274/model_serving_with_flask) - Serving a classification model using a flask application 
-4. [mlflow](https://github.com/harsh91274/mlops_zoomcamp) - Experiment tracking with mlflow
-
+1. [docker](https://github.com/harsh91274/docker_actions_housepriceprediction)) - Deploying a regression model to Heroku using Github actions and Docker. 
+2. [flask](https://github.com/harsh91274/model_serving_with_flask) - Serving a classification model using a flask application 
+3. [mlflow](https://github.com/harsh91274/mlops_zoomcamp) - Experiment tracking with mlflow
+4. [Building a data model using DBT and Snowflake](https://github.com/harsh91274/hv_projects/tree/main/dbtjanpro2) - Building the jaffle shop data model and testing using DBT
+   
 ### Decision Sciences
 1. [Operations research/Optimization](https://github.com/harsh91274/linear_programming) - Learning pyomo using classical fixed charge and travelling salesmen problems 
 2. [A/B Testing](https://github.com/harsh91274/AB_testing) - A/B testing a feature whether a feature added to a video game has implications on the game rounds using the popular cookie cats dataset.
