@@ -37,7 +37,7 @@
 
 ### MLOps and Data Engineering
 
-1. [docker](https://github.com/harsh91274/docker_actions_housepriceprediction)) - Deploying a regression model to Heroku using Github actions and Docker. 
+1. [docker](https://github.com/harsh91274/docker_actions_housepriceprediction) - Deploying a regression model to Heroku using Github actions and Docker. 
 2. [flask](https://github.com/harsh91274/model_serving_with_flask) - Serving a classification model using a flask application 
 3. [mlflow](https://github.com/harsh91274/mlops_zoomcamp) - Experiment tracking with mlflow
 4. [Building a data model using DBT and Snowflake](https://github.com/harsh91274/hv_projects/tree/main/dbtjanpro2) - Building the jaffle shop data model and testing using DBT
