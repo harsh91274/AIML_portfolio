@@ -12,3 +12,4 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-gist
+  - jekyll-include-cache 
